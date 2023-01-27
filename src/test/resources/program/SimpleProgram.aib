@@ -1,0 +1,10 @@
+var int a=1
+
+# comment 1
+  # comment 2
+
+for i from 1 to 10
+  a = a + 1
+next
+
+

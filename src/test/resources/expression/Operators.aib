@@ -1,0 +1,6 @@
+var int a=3+4
+var int b= 7 - 6
+var float c=5.0/10.0
+var int d=5*4
+var int e = 2^3
+var bool f = e=8

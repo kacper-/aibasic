@@ -1,0 +1,5 @@
+procedure int aa (int a, int b)
+  return a + b
+end
+
+var int a = aa(2,3)

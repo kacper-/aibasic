@@ -1,0 +1,6 @@
+var int a=1
+var int b=1
+while a=1
+  b=b+1
+  a = 2
+do

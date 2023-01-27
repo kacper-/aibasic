@@ -1,0 +1,9 @@
+var int a=1
+for i from 1 to 5
+  a = i
+next
+
+var int b=1
+for i from 1 to 10
+  b = b + 1
+next

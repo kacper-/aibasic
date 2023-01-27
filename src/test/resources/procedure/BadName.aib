@@ -1,0 +1,6 @@
+procedure str for ()
+  var str a="1"
+  for = a
+end
+
+var str a = for()

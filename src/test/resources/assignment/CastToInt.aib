@@ -1,0 +1,15 @@
+var byte a=1
+var str b = "2"
+var bool c = false
+var float d = 3.5
+
+var int sa
+var int sb
+var int sc
+var int sd
+
+sa = a
+sb = b
+sc = c
+sd = d
+

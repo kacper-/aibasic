@@ -1,0 +1,8 @@
+var int a=sqrt 4
+var float b=cos 60
+var float c=sin 60
+var float d=tan 45
+var int e = pow (2,3)
+var bool f = eq(e, 8)
+print "abc"
+print ("xyz")

@@ -1,0 +1,29 @@
+var int a=1
+var str b = "true"
+var byte c = 1
+var float d = 3.5
+
+var int aa=0
+var str bb = "false"
+var byte cc = 0
+var float dd = 0
+
+var bool sa
+var bool sb
+var bool sc
+var bool sd
+
+var bool ssa
+var bool ssb
+var bool ssc
+var bool ssd
+
+sa = a
+sb = b
+sc = c
+sd = d
+
+ssa = aa
+ssb = bb
+ssc = cc
+ssd = dd

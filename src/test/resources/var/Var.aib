@@ -1,0 +1,5 @@
+var byte a=1
+var int b = sqrt 4
+var int c = a + b
+var str d = "abc"
+c = c ^ b

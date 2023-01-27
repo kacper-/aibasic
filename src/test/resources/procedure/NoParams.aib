@@ -1,0 +1,6 @@
+procedure str aa ()
+  var str a="1"
+  return a
+end
+
+var str a = aa()

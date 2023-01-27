@@ -1,0 +1,10 @@
+var int a = 1
+if true then
+    if false then
+        a = 2
+    else
+        a = 3
+    endif
+else
+    a = 4
+endif

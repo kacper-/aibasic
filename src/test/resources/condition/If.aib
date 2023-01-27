@@ -1,0 +1,20 @@
+var int a = 1
+var int b = 1
+var int c = 1
+var int d = 1
+if true then a = 2
+if false then b = 2 else b = 3
+if true then
+    c = 2
+else
+    c = 3
+endif
+if false then
+    d = 2
+else
+    d = 3
+endif
+var int e = 1
+var int f = 1
+if e = 1 then e = 2 else e = 3
+if f = 2 then f = 4 else f = 5

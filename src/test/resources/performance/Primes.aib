@@ -1,0 +1,17 @@
+procedure bool isPrime(int i)
+  var int e = sqrt i
+  for j from 2 to e
+    if eq(mod(i, j), 0) then
+      return false
+    endif
+  next
+  return true
+end
+
+var int count = 0
+for i from 2 to 10000
+  if isPrime(i) then count = count+ 1
+next
+
+print("number of primes found :")
+print(count)

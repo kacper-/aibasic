@@ -1,0 +1,5 @@
+var byte a = 1
+var int b = 2
+var bool c = true
+var float d = 2.5
+var str e = "abc"
